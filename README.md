@@ -1,1 +1,1 @@
-This website will concist of a main index which will have links to a few recipes.
+This website will consist of a main index which will have links to a few recipes.
